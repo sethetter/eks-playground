@@ -1,3 +1,4 @@
+.envrc
 tf/.terraform
 tf/.terraform.tfstate.lock.info
 tf/terraform.tfstate*
