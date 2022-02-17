@@ -1,1 +1,1 @@
-ECR_REPO_URL=url.to.your.ecr.repo
+export ECR_REPO_URL=url.to.your.ecr.repo
